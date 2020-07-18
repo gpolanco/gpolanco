@@ -34,8 +34,6 @@ Here are some ideas to get you started:
     <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
     <img alt="node js" src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
 </p>
-    <p align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=geordano polanco&show_icons=true" alt="geordano polanco" /> </p>
 
 <p align="center">
     <a title="stackoverflow" href="https://stackoverflow.com/geordano-polanco" target="blank">
