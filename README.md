@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://user-images.githubusercontent.com/22793458/87850608-df76cd80-c8f1-11ea-8395-8f071e966a9f.jpg)
 <!--
 **gpolanco/gpolanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
