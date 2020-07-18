@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [GraphQl](https://graphql.org/), [TypeScript](https://www.typescriptlang.org/), [CI](https://es.wikipedia.org/wiki/Integraci%C3%B3n_continua), [CD](https://es.wikipedia.org/wiki/Entrega_continua), [Docker](https://www.docker.com/)
 
 <p align="left">
-    <img alt="React js" src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="15" height="15"/> 
-    <img alt="CSS 3" src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="15" height="15"/> 
-    <img alt="HTML 5" src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="15" height="15"/> 
-    <img alt="javascript" src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="15" height="15"/> 
-    <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="15" height="15"/> 
-    <img alt="node js" src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="15" height="15"/>
+    <img alt="React js" src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
+    <img alt="CSS 3" src="https://konpa.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> 
+    <img alt="HTML 5" src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> 
+    <img alt="javascript" src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+    <img src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
+    <img alt="node js" src="https://konpa.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="15"/>
 </p>
     <!-- <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=geordano polanco&show_icons=true" alt="geordano polanco" /> </p> -->
