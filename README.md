@@ -1,21 +1,15 @@
-### Hi there 👋
-<!--
-**gpolanco/gpolanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋🏼 I'm Geordano
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Geordano</h1>
+![github-readme-head](https://user-images.githubusercontent.com/22793458/87850608-df76cd80-c8f1-11ea-8395-8f071e966a9f.jpg)
 <h3 align="center">A passionate frontend developer 👨‍💻 from Dominican Republic 🇩🇴. I live in Benidorm, Spain 🇪🇸</h3>
+
+```js
+const devProfile = {
+    code: [JavaScript, TypeScript, HTML, CSS, .NET, C#]
+    tools: [Git, lerna, , SCSS, Docker],
+    librariesOrFramwork: [React, Redux, Jest, Styled-components]
+}
+```
 
 - 📝 I regulary write articles on [www.gpolanco.com](www.gpolanco.com)
 
