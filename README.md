@@ -5,8 +5,8 @@
 
 ```js
 const devProfile = {
-    code: [JavaScript, TypeScript, HTML, CSS, .NET, C#]
-    tools: [Git, lerna, , SCSS, Docker],
+    code: [JavaScript, TypeScript, nodejs, GraphSql, HTML, CSS, .NET, C#]
+    tools: [Git, lerna, , SCSS, Docker, eslint, prettier],
     librariesOrFramwork: [React, Redux, Jest, Styled-components]
 }
 ```
