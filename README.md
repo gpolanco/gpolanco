@@ -13,7 +13,7 @@ const devProfile = {
 
 - 📝 I regulary write articles on [www.gpolanco.com](www.gpolanco.com)
 
-- 💬 Ask me about **React, CSS, TypeScript and general front end**
+- 💬 Ask me about **JavaScript, React, CSS, TypeScript and general front end**
 
 - 📫 How to reach me **gpolanco.dev@gmail.com**
 
