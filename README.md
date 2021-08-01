@@ -7,7 +7,7 @@
 const devProfile = {
     code: [JavaScript, TypeScript, nodejs, GraphSql, HTML, CSS, .NET, C#]
     tools: [Git, lerna, , SCSS, Docker, eslint, prettier],
-    librariesOrFramwork: [React, Redux, Jest, Styled-components]
+    librariesOrFramwork: [React, Nextjs, Redux, Jest, Styled-components]
 }
 ```
 
