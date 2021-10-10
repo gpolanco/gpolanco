@@ -19,13 +19,13 @@ const devProfile = {
 
 - 🌱 I’m currently learning [GraphQl](https://graphql.org/), [TypeScript](https://www.typescriptlang.org/), [CI](https://es.wikipedia.org/wiki/Integraci%C3%B3n_continua), [CD](https://es.wikipedia.org/wiki/Entrega_continua), [Docker](https://www.docker.com/)
 
-<p align="left">
-    <img alt="React js" src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
-    <img alt="CSS 3" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/css3.svg" alt="css3" width="30" height="30"/> 
-    <img alt="HTML 5" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/html5.svg" alt="html5" width="30" height="30"/> 
-    <img alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/javascript.svg" alt="javascript" width="30" height="30"/> 
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/typescript.svg" alt="typescript" width="30" height="30"/> 
-    <img alt="node js" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/nodedotjs.svg" alt="nodejs" width="30" height="30"/>
+<p align="center">
+    <img alt="javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/javascript.svg" alt="javascript" width="50" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/typescript.svg" alt="typescript" width="50" height="50"/>  
+    <img alt="CSS 3" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/css3.svg" alt="css3" width="50" height="50"/> 
+    <img alt="HTML 5" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/html5.svg" alt="html5" width="50" height="50"/> 
+    <img alt="node js" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/nodedotjs.svg" alt="nodejs" width="50" height="50"/>
+    <img alt="React js" src="https://cdn.jsdelivr.net/npm/simple-icons@5.18.0/icons/react.svg" alt="react" width="50" height="50"/>
 </p>
 
 <p align="center">
