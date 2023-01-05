@@ -6,8 +6,8 @@
 ```js
 const devProfile = {
     code: [JavaScript, TypeScript, nodejs, GraphSql, HTML, CSS, .NET, C#]
-    tools: [Git, lerna, , SCSS, Docker, eslint, prettier],
-    librariesOrFramwork: [React, Nextjs, Redux, Jest, Styled-components]
+    tools: [Git, monorepo, SCSS, Docker, eslint, prettier],
+    librariesOrFramwork: [React, Nextjs, Redux, redux toolkit, Jest, Styled-components]
 }
 ```
 
